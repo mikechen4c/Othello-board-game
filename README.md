@@ -1,1 +1,0 @@
-# Othello-board-game
